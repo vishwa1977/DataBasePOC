@@ -7,3 +7,9 @@ BEGIN
 END
 
 --Commented for testing github repo. This change done through Feature Branch
+
+
+--This change done through Feature Branch
+INSERT INTO Customers (CustomerName, City, Country)
+VALUES ('Vishwa', 'Blore', 'India');
+--This change done through Feature Branch
